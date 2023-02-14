@@ -14,3 +14,11 @@ git push origin main
 - local - your personal computer 
 - commit - adding a tracking number and message to your version
 - diff - the difference between status of your local and Github repositories
+
+### Git Process Notes
+- create a new repo on Github
+- clone the repo to your local
+- add a new file
+- add code to the file
+- use git status to see where you are in the process
+- add, commit, push code to Github
