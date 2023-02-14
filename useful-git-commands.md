@@ -22,3 +22,9 @@ git push origin main
 - add code to the file
 - use git status to see where you are in the process
 - add, commit, push code to Github
+
+### Notes About Branching
+- Branching protects your code from errors that can cause your app to be down in production
+- Branching allows multiple people to work on code at the same time
+- Branching is a best practice for all developers on all projects
+- the main branch is the source of truth and should only ever have working code
